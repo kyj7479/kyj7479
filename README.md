@@ -1,6 +1,6 @@
 ## Youngjin Kim 👋
 
-* 🔭 Currently working: (2025~) Hyundai Autoever
+* 🔭 Currently working: (2025~) Hyundai AutoEver
   - (2019~2025) DiQuest [Homepage](https://www.diquest.com/)
 * 🎓 Educational Background
   - (2017~2019) Hanyang University Graduate School (Bigdata Mining Lab) [Homepage](https://nongaussian.github.io/index.html)
